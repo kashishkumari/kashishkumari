@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Kashish.</h1>
-<h3 align="center">A Computer Science Undergraduate at IGDTUW, Delhi.</h3>
+<h3 align="center">Computer Science Undergraduate at IGDTUW, Delhi.</h3>
 <p>
 
 
