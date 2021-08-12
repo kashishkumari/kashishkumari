@@ -5,13 +5,13 @@
 
 ## 🙋‍♀️ About Me 
 
-- 🌱 I’m currently learning **DS Algo and Flutter & Game Development.**
+- 🌱 I’m currently learning **DS Algo and Flutter.**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact **I like to paint/sketch and pen down my thoughts into poems.**
+- ⚡ Fun fact **I like to paint, sketch and pen down my thoughts into poems.**
 
 ## 🚀 Languages and Tools:
 
